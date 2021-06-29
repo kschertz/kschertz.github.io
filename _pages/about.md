@@ -22,4 +22,4 @@ In an effort to help city-dwellers experience natural stimuli on their daily liv
 
 ### Open Science
 
-Check out my [Open Science Framework page](osf.io/hfapn) for shared stimuli and analysis code!
+Check out my [Open Science Framework page](https://osf.io/hfapn/) for shared stimuli and analysis code!
