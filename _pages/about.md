@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a PhD student in the [Environmental Neuroscience Lab](https://voices.uchicago.edu/bermanlab/) in the Psychology department at the University of Chicago. I am interested in how the physical environment influences cognition and behavior, and the mechanisms of these effects. Specifically, I focus on the influence of natural environments (and natural stimuli in urban environments). 
+Hello! I am a PhD student in the [Environmental Neuroscience Lab](https://voices.uchicago.edu/bermanlab/) in the Psychology department at the University of Chicago. I am interested in how the physical environment influences cognition and behavior, and the mechanisms of these effects. Specifically, I focus on the influence of natural environments (and natural stimuli in urban environments). I combine experimental psychology methods with spatial data science in my research.
 
 ### Current Projects
 
-- changes in thought content in natural environments
+- what people think about while visiting natural environments
 - the relationship between thought content and visual features 
-- how street activity and park visits are related to crime levels
+- how park visits, street activity, and tree canopy are related to crime
 
 ### Broader Impacts
 
