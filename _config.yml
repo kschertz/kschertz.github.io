@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kathryn E. Schertz"
 title_separator          : "-"
 name                     : &name "Kathryn E. Schertz"
-description              : &description "Hello! I am a PhD student in the Environmental Neuroscience Lab in the Psychology department at the University of Chicago. I am interested in how the physical environment influences cognitive processes and the mechanisms of these effects. Specifically, I focus on the influences of natural and urban environments."
+description              : &description " "
 url                      : https://kschertz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kschertz/kschertz.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Kathryn E. Schertz"
   avatar           : "Schertz Kathryn copy.png"
   bio              : "Psychology PhD Student at the University of Chicago"
-  location         : "Chicago, IL"
+  location         : "Chicago, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SDnocu8AAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "kschertz@uchicago.edu"
   researchgate     :  "https://www.researchgate.net/profile/Kathryn-Schertz"
   uri              :
   bitbucket        :
