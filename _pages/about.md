@@ -18,7 +18,7 @@ Hello! I am a PhD student in the [Environmental Neuroscience Lab](https://voices
 
 ### Broader Impacts
 
-In an effort to help city-dwellers experience natural stimuli on their daily lives, I also co-developed a web-app called [ReTUNE](https://retune-56d2e.firebaseapp.com/) which generates 'restorative' walking routes which account for greenspace, noise levels and crime. The app currently works for the Hyde Park/Kenwood/Woodlawn area of Chicago and is in the process of being expanded.
+In an effort to help city-dwellers experience natural stimuli on their daily lives, I co-developed a web-app called [ReTUNE](https://retune-56d2e.firebaseapp.com/) which generates 'restorative' walking routes which account for greenspace, noise levels and crime. The app currently works for the Hyde Park/Kenwood/Woodlawn area of Chicago and is in the process of being expanded.
 
 ### Open Science
 
