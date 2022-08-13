@@ -9,7 +9,9 @@ author_profile: true
   You can also find my articles on <u><a href="https://scholar.google.com/citations?user=SDnocu8AAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
 ## Peer-reviewed Articles
-Stier, A.J., **Schertz, K.E.**, Rim, N.W., Cardenas-Iniguez, C., Lahey, B.B., Bettencourt, L.M.A., & Berman, M.G. (In press). Evidence and Theory for Lower Rates of Depression in Larger U.S. Urban Areas. Proceedings of the National Academy of Science.
+**Schertz, K.E.**, Bowman, J.E., Kotabe, H.P., Layden, E.A., Zhen, J., Lakhtakia, T., Lyu, M., Paraschos, O., Van Hedger, S.C., Vohs, K.D., Berman, M.G. (In press). Environmental influences on affect and cognition: A study of natural and commercial semi-public spaces. Journal of Environmental Psychology.
+
+Stier, A.J., **Schertz, K.E.**, Rim, N.W., Cardenas-Iniguez, C., Lahey, B.B., Bettencourt, L.M.A., & Berman, M.G. (2021). Evidence and Theory for Lower Rates of Depression in Larger U.S. Urban Areas. Proceedings of the National Academy of Science, 118(31).
 
 **Schertz, K.E.**, Saxon, J., Cardenas-Iniguez, C., Bettencourt, L.M.A., Ding, Y., Hoffmann, H., & Berman, M.G. (2021). Neighborhood street activity and greenspace usage uniquely contribute to predicting crime. npj Urban Sustainability, 1 , 19.
 
@@ -34,7 +36,7 @@ Van Hedger, K., Keedy, S.K., **Schertz, K.E.**, Berman, M.G., & de Wit, H. (2019
 
 ## Book Chapters
 
-Akcelik, G.N., **Schertz, K.E.**, & Berman, M.G. (In Press). The influence of low- and midlevel visual features on the perception of streetscape qualities. In B. Ionescu & W. Bainbridge, Human perceptions of visual information: Psychological and computational perspectives. Springer.
+Akcelik, G.N., **Schertz, K.E.**, & Berman, M.G. (2022). The influence of low- and midlevel visual features on the perception of streetscape qualities. In B. Ionescu & W. Bainbridge, Human perceptions of visual information: Psychological and computational perspectives. Springer.
 
 **Schertz, K.E.**,* Meidenbauer, K.L.,* & Berman, M.G. (2021). Understanding the affective benefits of interacting with nature. In E. Brymer, M. Rogerson, & J. Barton, Nature and Health: Physical activity in nature. Rutledge.
 
