@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kathryn E. Schertz"
   avatar           : "Schertz Kathryn copy.png"
-  bio              : "Psychology Postdoc at the University of Michigan"
+  bio              : "Psychology Postdoc at the University of Michigan and Michigan State University"
   location         : "Ann Arbor, MI, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SDnocu8AAAAJ&hl=en&oi=ao"
-  email            : "kschertz@uchicago.edu"
+  email            : "schertzk@umich.edu"
   researchgate     :  "https://www.researchgate.net/profile/Kathryn-Schertz"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@kate_schertz"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
