@@ -7,9 +7,22 @@ author_profile: true
 
 
   You can also find my articles on <u><a href="https://scholar.google.com/citations?user=SDnocu8AAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
+  
+  \* Indicates authors contributed equally
+
+## Patents
+**Schertz, K.E.**, Kardan, O., Berman, M.G., & Kompare, T.N. (2019). Routing in Navigation Applications based on Restorative Score. U.S. Patent Accepted No. 16/418,522. Washington, DC: U.S. Patent and Trademark Office.
 
 ## Peer-reviewed Articles
-**Schertz, K.E.**, Bowman, J.E., Kotabe, H.P., Layden, E.A., Zhen, J., Lakhtakia, T., Lyu, M., Paraschos, O., Van Hedger, S.C., Vohs, K.D., Berman, M.G. (In press). Environmental influences on affect and cognition: A study of natural and commercial semi-public spaces. Journal of Environmental Psychology.
+Rim, N.,* **Schertz, K.E.**,* & Berman, M.G. (In press). The affective, cognitive, and social benefits of interacting with nature. Journal of Consumer Psychology.
+
+Akcelik, G.N., Choe, K.W., Rosenberg, M.D., **Schertz, K.E.**, Meidenbauer, K.L., Zhang, T., Rim, N. Tucker, R., Talen, E., & Berman, M.G. (2024). Quantifying urban environments: Aesthetic preference through the lens of prospect-refuge theory. Journal of Environmental Psychology, 97, 102344.
+
+Cardenas-Iniguez, C., Schachner, J.N., Ip, K.I, **Schertz, K.E.**, Gonzalez, M.R., Abad, S., Herting, M.M. (2024). Building towards an adolescent neural urbanome: Expanding environmental measures using linked external data (LED) in the ABCD Study. Developmental Cognitive Neuroscience, 65, 101338.
+
+**Schertz, K.E.**, Kotabe, H.P., Meidenbauer, K.L., Layden, E.A., Zhen, J., Bowman, J.E., … & Berman, M.G. (2023). Nature’s path to thinking about others and the surrounding environment. Journal of Environmental Psychology, 89, 102046.
+
+**Schertz, K.E.**, Bowman, J.E., Kotabe, H.P., Layden, E.A., Zhen, J., Lakhtakia, T., Lyu, M., Paraschos, O., Van Hedger, S.C., Vohs, K.D., Berman, M.G. (2022). Environmental influences on affect and cognition: A study of natural and commercial semi-public spaces. Journal of Environmental Psychology, 83, 101852.
 
 Stier, A.J., **Schertz, K.E.**, Rim, N.W., Cardenas-Iniguez, C., Lahey, B.B., Bettencourt, L.M.A., & Berman, M.G. (2021). Evidence and Theory for Lower Rates of Depression in Larger U.S. Urban Areas. Proceedings of the National Academy of Science, 118(31).
 
