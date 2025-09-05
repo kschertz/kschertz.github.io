@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a postdoctoral researcher in the [Emotion & Self Control Lab](http://selfcontrol.psych.lsa.umich.edu) at the University of Michigan and the [Clinical Psychophysiology Lab](https://oboe-mouse-keb7.squarespace.com/) at Michigan State University. I completed my PhD in Psychology in the [Environmental Neuroscience Lab](https://voices.uchicago.edu/bermanlab/) at the University of Chicago. I am interested in how the physical environment influences cognition, emotions, behavior, and wellbeing, and the mechanisms of these effects. Specifically, I focus on the influence of natural environments across the urban to rural gradient. I combine experimental psychology methods with spatial data science using big, open datasets in my research.
+Hello! I am a postdoctoral researcher in the [Emotion & Self Control Lab](http://selfcontrol.psych.lsa.umich.edu) at the University of Michigan and the [Clinical Psychophysiology Lab](https://oboe-mouse-keb7.squarespace.com/) at Michigan State University. I completed my PhD in Psychology in the [Environmental Neuroscience Lab](https://voices.uchicago.edu/bermanlab/) at the University of Chicago. My research bridges social, clinical, cognitive, neuroscience and environmental approaches to psychology, to understand how physical environments and self-regulation intertwine to improve wellbeing and bolster social connection. 
 
 ### Reseach Questions
 
-- How does one's surrounding environment influence who and what they think about?
-- What environmental features shape these cognitive and social effects?
-- How do neighborhood level physical and social environments affect behavior and mental health?
+- How do our everyday surroundings and social contexts affect emotion regulation and wellbeing?
+- How do natural environments influence affective processing for individuals and dyads?
+- Can we target self-referential processing to reduce rumination in people with depression or anxiety?
 
 ### Broader Impacts
 
