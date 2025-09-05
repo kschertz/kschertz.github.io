@@ -14,7 +14,19 @@ author_profile: true
 **Schertz, K.E.**, Kardan, O., Berman, M.G., & Kompare, T.N. (2019). Routing in Navigation Applications based on Restorative Score. U.S. Patent Accepted No. 16/418,522. Washington, DC: U.S. Patent and Trademark Office.
 
 ## Peer-reviewed Articles
-Rim, N.,* **Schertz, K.E.**,* & Berman, M.G. (In press). The affective, cognitive, and social benefits of interacting with nature. Journal of Consumer Psychology.
+**Schertz, K.E.**,* Meidenbauer, K.L.,* Freeman, T.R., Santiago, I.M., Janey, E.A., Gehrke, K., Samtani, A.L., Stier, A.J., & Berman, M.G. (2025). Identifying qualities and amenities associated with perceived cognitive restoration and improved affect in urban parks. Journal of Environmental Psychology, 104, 102624.
+
+Trinh, E.N.,* **Schertz, K.E.**,* & Kross, E. (2025). Do you have a minute? The cognitive & emotional consequences of self-disclosure at work. Emotion. Advance online publication: https://dx.doi.org/10.1037/emo0001539
+
+Rim, N.,* **Schertz, K.E.**,* & Berman, M.G. (2025). The affective, cognitive, and social benefits of interacting with nature. Journal of Consumer Psychology, 35(3), 495-510.
+
+Baldwin, C.R.,* **Schertz, K.E.***,* Orvell, A.,* Costello, C., Takahashi, S., Moser, J.S., Ayduk, O., & Kross, E. (2025). Managing emotions in everyday life: Why a toolbox of strategies matters. Emotion, 25(5), 1122-1136.
+
+Rodriguez, M., **Schertz, K.E.**, & Kross, E. (2025). How people think about being alone shapes their experience of loneliness. Nature Communications , 16(1), 1594.
+
+Meidenbauer, K.L., **Schertz, K.E.**, Janey, E.A., Stier, A.J., Samtani, A.L., Gehrke, K., Tucker, R., Hasan, M., & Berman, M.G. (2025) Evidence for environmental influences on impulsivity and aggression. Urban Forestry & Urban Greening, 103, 128594. 
+
+Meidenbauer, K.L., **Schertz, K.E.**, Li, P., Sharma, A., Freeman, T.R., Janey, E.A., Stier, A.J., Samtani, A.L., Gehrke, K., & Berman, M.G. (2024). Variable and dynamic associations between hot weather, thermal comfort, and individuals’ emotional states during summertime. BMC Psychology, 12, 504.
 
 Akcelik, G.N., Choe, K.W., Rosenberg, M.D., **Schertz, K.E.**, Meidenbauer, K.L., Zhang, T., Rim, N. Tucker, R., Talen, E., & Berman, M.G. (2024). Quantifying urban environments: Aesthetic preference through the lens of prospect-refuge theory. Journal of Environmental Psychology, 97, 102344.
 
@@ -53,6 +65,11 @@ Akcelik, G.N., **Schertz, K.E.**, & Berman, M.G. (2022). The influence of low- a
 
 **Schertz, K.E.**,* Meidenbauer, K.L.,* & Berman, M.G. (2021). Understanding the affective benefits of interacting with nature. In E. Brymer, M. Rogerson, & J. Barton, Nature and Health: Physical activity in nature. Rutledge.
 
+## Popular Press Articles
+
+Trinh, E.N. & **Schertz, K.E.** (August 20, 2025). Should you share personal stuff at work? Invited submission for “Character and Context” blog for the Society for Personality and Social Psychology.
+
+**Schertz, K.E.** (September 25, 2023). Thinking too much about yourself? Nature could help with that. Invited submission for “Character and Context” blog for the Society for Personality and Social Psychology.
 
 <!-- 
 Commented out for now
