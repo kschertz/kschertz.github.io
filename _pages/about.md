@@ -10,6 +10,8 @@ redirect_from:
 
 Hello! I am a postdoctoral researcher in the [Emotion & Self Control Lab](http://selfcontrol.psych.lsa.umich.edu) at the University of Michigan and the [Clinical Psychophysiology Lab](https://oboe-mouse-keb7.squarespace.com/) at Michigan State University. I completed my PhD in Psychology in the [Environmental Neuroscience Lab](https://voices.uchicago.edu/bermanlab/) at the University of Chicago. My research bridges social, clinical, cognitive, neuroscience and environmental approaches to psychology, to understand how physical environments and self-regulation intertwine to improve wellbeing and bolster social connection. 
 
+I will be starting as an Assistant Professor of Psychology at Iowa State University in August 2026.
+
 ### Reseach Questions
 
 - How do our everyday surroundings and social contexts affect emotion regulation and wellbeing?
