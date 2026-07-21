@@ -14,6 +14,10 @@ author_profile: true
 **Schertz, K.E.**, Kardan, O., Berman, M.G., & Kompare, T.N. (2019). Routing in Navigation Applications based on Restorative Score. U.S. Patent Accepted No. 16/418,522. Washington, DC: U.S. Patent and Trademark Office.
 
 ## Peer-reviewed Articles
+**Schertz, K.E.**, Sachdeva, S., Kross, E., & Berman, M.G. (In press). Let's talk about nature: Understanding multifaceted nature experiences in the United States using social media. Environment & Behavior.
+
+**Schertz, K.E.**,* Orvell, A.*, Chandhok, S., Vickers, B.D., Moser, J.S., Ayduk, O., & Kross E. (2025). The frequency, form, and function of self-talk in everyday life. Scientific Reports, 15(1), 38883.
+
 **Schertz, K.E.**,* Meidenbauer, K.L.,* Freeman, T.R., Santiago, I.M., Janey, E.A., Gehrke, K., Samtani, A.L., Stier, A.J., & Berman, M.G. (2025). Identifying qualities and amenities associated with perceived cognitive restoration and improved affect in urban parks. Journal of Environmental Psychology, 104, 102624.
 
 Trinh, E.N.,* **Schertz, K.E.**,* & Kross, E. (2025). Do you have a minute? The cognitive & emotional consequences of self-disclosure at work. Emotion. Advance online publication: https://dx.doi.org/10.1037/emo0001539
@@ -66,6 +70,8 @@ Akcelik, G.N., **Schertz, K.E.**, & Berman, M.G. (2022). The influence of low- a
 **Schertz, K.E.**,* Meidenbauer, K.L.,* & Berman, M.G. (2021). Understanding the affective benefits of interacting with nature. In E. Brymer, M. Rogerson, & J. Barton, Nature and Health: Physical activity in nature. Rutledge.
 
 ## Popular Press Articles
+
+Baldwin, C.R., Orvell, A., & **Schertz, K.E.** (November 14, 2025). How Can I Deal With My Emotions In The Complexity Of Everyday Life? Invited submission for “Character and Context” blog for the Society for Personality and Social Psychology.
 
 Trinh, E.N. & **Schertz, K.E.** (August 20, 2025). Should you share personal stuff at work? Invited submission for “Character and Context” blog for the Society for Personality and Social Psychology.
 
