@@ -16,6 +16,8 @@ author_profile: true
 ## Peer-reviewed Articles
 **Schertz, K.E.**, Sachdeva, S., Kross, E., & Berman, M.G. (In press). Let's talk about nature: Understanding multifaceted nature experiences in the United States using social media. Environment & Behavior.
 
+Kardan, O., Sereeyothin, C., **Schertz, K.E.**, Angstadt, M., Weigard, A.S., Berman, M.G., Heitzeg, M.M., Rosenberg, M.D. (2026). Neighborhood air pollution is associated with attenuated neurocognitive maturation over early adolescence. Developmental Cognitive Neuroscience, 101719.
+
 **Schertz, K.E.**,* Orvell, A.*, Chandhok, S., Vickers, B.D., Moser, J.S., Ayduk, O., & Kross E. (2025). The frequency, form, and function of self-talk in everyday life. Scientific Reports, 15(1), 38883.
 
 **Schertz, K.E.**,* Meidenbauer, K.L.,* Freeman, T.R., Santiago, I.M., Janey, E.A., Gehrke, K., Samtani, A.L., Stier, A.J., & Berman, M.G. (2025). Identifying qualities and amenities associated with perceived cognitive restoration and improved affect in urban parks. Journal of Environmental Psychology, 104, 102624.
