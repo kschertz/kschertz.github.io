@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an incoming Assistant Professor of Psychology at Iowa State University. My research bridges social, clinical, cognitive, neuroscience, and environmental approaches to psychology, to understand how physical environments and self-regulation intertwine to improve wellbeing and bolster social connection. I received my PhD from the University of Chicago in 2022 and completed postdoctoral training at Michigan State University and the University of Michigan.
+Hello! I am an Assistant Professor of Psychology at Iowa State University (ISU). My research bridges social, clinical, cognitive, neuroscience, and environmental approaches to psychology, to understand how physical environments and self-regulation intertwine to improve wellbeing and bolster social connection. I received my PhD from the University of Chicago in 2022 and completed postdoctoral training at Michigan State University and the University of Michigan.
+
+I will be recruiting graduate students in the upcoming admissions cycle through the Social & Personality Psychology Area of the [ISU Psychology PhD program](https://psychology.iastate.edu/academics/graduate-studies/social-psychology/).
 
 
-### Reseach Questions
+### Research Questions
 
-- How do our everyday surroundings and social contexts affect emotion regulation and wellbeing?
+- How do our everyday surroundings and social contexts influence emotion regulation and wellbeing?
 - How do natural environments influence affective and cognitive processing for individuals and dyads?
 - Can we target self-referential processing to reduce rumination in people with depression or anxiety?
 
-To answer these questions, I draw on behaviorial, experience sampling/ecological momentary assessment, and psychophysiological (e.g., EEG, ECG) methods.
+To answer these questions, I draw on behavioral, experience sampling/ecological momentary assessment, and psychophysiological (e.g., EEG, ECG) methods.
 
 ### Broader Impacts
 
