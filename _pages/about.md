@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an Assistant Professor of Psychology at Iowa State University (ISU). My research bridges social, clinical, cognitive, neuroscience, and environmental approaches to psychology, to understand how physical environments and self-regulation intertwine to improve wellbeing and bolster social connection. I received my PhD from the University of Chicago in 2022 and completed postdoctoral training at Michigan State University and the University of Michigan.
+Hello! I am an Assistant Professor of Psychology at Iowa State University (ISU). My research bridges social, clinical, cognitive, neuroscience, and environmental approaches to psychology, to understand how physical environments and self-regulation intertwine to improve wellbeing and bolster social connection. I received my PhD from the University of Chicago in 2022 and completed postdoctoral training at Michigan State University and the University of Michigan. At Iowa State, I lead the [Minds in Context Lab](https://faculty.sites.iastate.edu/kschertz/).
 
 I will be recruiting graduate students in the upcoming admissions cycle through the Social & Personality Psychology Area of the [ISU Psychology PhD program](https://psychology.iastate.edu/academics/graduate-studies/social-psychology/).
 
